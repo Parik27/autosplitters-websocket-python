@@ -196,4 +196,4 @@ class GTA3Autosplitter(Autosplitter):
             self.watchers["gameState"].current == 8
     pass
 
-GTA3Autosplitter().run("localhost", 8765)
+GTA3Autosplitter().run("localhost", 8765, "out.pem")

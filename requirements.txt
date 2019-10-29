@@ -1,0 +1,2 @@
+websockets
+https://github.com/Zarig/mem_edit
